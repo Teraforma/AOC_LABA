@@ -1,0 +1,15 @@
+C:\Users\teraf\source\repos\ServerV2\ServerV2\bin\Debug\net6.0\ServerV2.exe
+C:\Users\teraf\source\repos\ServerV2\ServerV2\bin\Debug\net6.0\ServerV2.deps.json
+C:\Users\teraf\source\repos\ServerV2\ServerV2\bin\Debug\net6.0\ServerV2.runtimeconfig.json
+C:\Users\teraf\source\repos\ServerV2\ServerV2\bin\Debug\net6.0\ServerV2.dll
+C:\Users\teraf\source\repos\ServerV2\ServerV2\bin\Debug\net6.0\ServerV2.pdb
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\ServerV2.csproj.AssemblyReference.cache
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\ServerV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\ServerV2.AssemblyInfoInputs.cache
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\ServerV2.AssemblyInfo.cs
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\ServerV2.csproj.CoreCompileInputs.cache
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\ServerV2.dll
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\refint\ServerV2.dll
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\ServerV2.pdb
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\ServerV2.genruntimeconfig.cache
+C:\Users\teraf\source\repos\ServerV2\ServerV2\obj\Debug\net6.0\ref\ServerV2.dll
