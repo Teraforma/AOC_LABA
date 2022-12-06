@@ -1,0 +1,15 @@
+C:\Users\teraf\source\repos\ClientV2\ClientV2\bin\Debug\net6.0\ClientV2.exe
+C:\Users\teraf\source\repos\ClientV2\ClientV2\bin\Debug\net6.0\ClientV2.deps.json
+C:\Users\teraf\source\repos\ClientV2\ClientV2\bin\Debug\net6.0\ClientV2.runtimeconfig.json
+C:\Users\teraf\source\repos\ClientV2\ClientV2\bin\Debug\net6.0\ClientV2.dll
+C:\Users\teraf\source\repos\ClientV2\ClientV2\bin\Debug\net6.0\ClientV2.pdb
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\ClientV2.csproj.AssemblyReference.cache
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\ClientV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\ClientV2.AssemblyInfoInputs.cache
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\ClientV2.AssemblyInfo.cs
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\ClientV2.csproj.CoreCompileInputs.cache
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\ClientV2.dll
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\refint\ClientV2.dll
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\ClientV2.pdb
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\ClientV2.genruntimeconfig.cache
+C:\Users\teraf\source\repos\ClientV2\ClientV2\obj\Debug\net6.0\ref\ClientV2.dll
